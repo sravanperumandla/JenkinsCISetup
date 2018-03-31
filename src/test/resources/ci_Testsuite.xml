@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="JenkinsTestSuite">
+	<test name="Test1">
+		<packages>
+			<package name="com.jenkins.ci.learning"></package>
+		</packages>
+		<!-- <classes> <class name="com.jenkins.ci.learning.ContinuosIntegrationTest" 
+			/> </classes> -->
+	</test>
+</suite>
