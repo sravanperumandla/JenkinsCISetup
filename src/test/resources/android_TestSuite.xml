@@ -4,7 +4,7 @@
 		<!-- <packages>
 			<package name="com.jenkins.ci.learning"></package>
 		</packages> -->
-		<classes> <class name="com.jenkins.ci.learning.ContinuosIntegrationTest" 
+		<classes> <class name="com.jenkins.ci.learning.AndroidTest" 
 			/> </classes>
 	</test>
 </suite>
